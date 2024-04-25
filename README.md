@@ -1,4 +1,4 @@
-# TCC: Autoencoder para Geração de Imagens
+# TCC: Processamento de texturas usando autoencoders, com aplicação na síntese de imagem
 
 Este projeto é parte do Trabalho de Conclusão de Curso de Robson Roberto Vieira Junior, sob a orientação do Prof. Leandro Nogueira Couto, na Universidade Federal de Uberlândia.
 
